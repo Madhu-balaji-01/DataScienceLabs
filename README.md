@@ -1,5 +1,5 @@
 # Data Science Labs
-Coding assignemnents done as part of Computational Data Science course.
+Coding assignments done as part of Computational Data Science course.
 
 ### Topics covered
 - Big Data - Hadoop
